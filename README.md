@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tushar Dharia
-- 👀 I’m interested in Machine Learning, A.I., Web Development.
+- 👀 I’m interested in Machine Learning, A.I. , Web Development.
 - 🌱 I’m currently learning Django
 - 📫 How to reach me @tushardharia
 
